@@ -10,7 +10,7 @@ Authors: [Hryts](https://github.com/Hryts), [ch0c01ate](https://github.com/ch0c0
 
 With it you can see such **parameters** as:
 
-- Brix (amount of sugar per 100g of solution)
+- Brix °Bx (amount of sugar per 100 g of solution)
 - Carbon dioxide concentration (which tells you about dynamic of process)
 - Temperature (important factor on which yeasts ability to live depends)
 
@@ -32,7 +32,7 @@ To be done
 
 ## Final decision:
 
-To be done
+To measure the °Bx the refractive method was chosen. Total internal reflection is to be used to find the refractive index of a wine (which depends on brix since sugar is optically active). We are going to use optical prism with relatively high refractive index to make total internal reflection angle bigger.
 
 
 
