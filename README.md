@@ -57,4 +57,3 @@ To be done
 - LED
 - [Temperature sensor ](https://www.sparkfun.com/products/11050)([datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf))
 - [Pressure sensor](https://www.mondaykids.com/monday-kids-3-3-45-5v-digital-barometric-pressure-sensor-module-liquid-water-level-controller-board-0-45-40kpa-for-arduino.html) 
-- [CO<sub>2</sub> sensor](https://www.sumozade.com/bmp180-digital-air-pressure-sensor-199) ([datasheet](https://learn.sparkfun.com/tutorials/bmp180-barometric-pressure-sensor-hookup-))
