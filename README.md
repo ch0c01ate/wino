@@ -27,7 +27,7 @@ With it you can see such **parameters** as:
 ## Previous decisions:
 
 - Density Method
-   - First plan: To measure pressure between two depths in the fermenter.
+  You can check [Density measuring method] (https://github.com/ch0c01ate/wino/blob/master/presentations/Measuring%20Density.ppt) to discover more about it.
  
 
 - Optical Method
