@@ -44,6 +44,6 @@ To be done
 
 - Optical prism
 
-- CO2 sensor
+- CO<sub>2</sub> sensor
 
   
