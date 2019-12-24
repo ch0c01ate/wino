@@ -27,7 +27,8 @@ With it you can see such **parameters** as:
 ## Previous decisions:
 
 - Density Method
-  You can check [Density measuring method](https://github.com/ch0c01ate/wino/blob/master/presentations/Measuring%20Density.ppt) to discover more about it.
+
+  You can check [Density measuring method by Cypress](https://github.com/ch0c01ate/wino/blob/master/presentations/Measuring%20Density.ppt) to discover more about it.
  
 
 - Optical Method
