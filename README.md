@@ -33,7 +33,7 @@ With it you can see such **parameters** as:
 
 - Optical Method
 
-
+  Check [Optical method](https://github.com/ch0c01ate/wino/blob/master/presentations/Optical%20Method.pptx) to discover how it works. This method was rejected because of turbidity of the wine.
 
 
 
