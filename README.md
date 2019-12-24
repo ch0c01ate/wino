@@ -26,7 +26,13 @@ With it you can see such **parameters** as:
 
 ## Previous decisions:
 
-To be done
+- Density Method
+   - First plan: To measure pressure between two depths in the fermenter.
+ 
+
+- Optical Method
+
+
 
 
 
