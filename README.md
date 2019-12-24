@@ -36,14 +36,16 @@ To be done
 
 
 
+## Computations:
+
+To be done
+
+
+
 ## Components:
 
 - [Camera](https://www.sparkfun.com/products/15430)  ([datasheet](https://cdn.sparkfun.com/assets/0/b/0/e/d/LI-IMX219-MIPI-FF-NANO_SPEC.pdf))
-
+- Optical prism 
+- Led
 - [Temperature sensor ](https://www.sparkfun.com/products/11050)([datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf))
-
-- Optical prism
-
-- CO<sub>2</sub> sensor
-
-  
+- [CO<sub>2</sub> sensor](https://www.youtube.com/watch?v=q86g1aop6a8) ([datasheet](https://www.youtube.com/watch?v=q86g1aop6a8))
