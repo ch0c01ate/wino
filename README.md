@@ -30,7 +30,7 @@ With it you can see such **parameters** as:
  - First plan: To measure pressure between two depths in the fermenter. You can check [Density measuring method by Cypress](https://github.com/ch0c01ate/wino/blob/master/presentations/Measuring%20Density.ppt) to discover more about it.
 - Optical Method
 
-
+  Check [Optical method](https://github.com/ch0c01ate/wino/blob/master/presentations/Optical%20Method.pptx) to discover how it works. This method was rejected because of turbidity of the wine.
 
 
 
