@@ -28,7 +28,7 @@ With it you can see such **parameters** as:
 
 - Density Method
    - First plan: To measure pressure between two depths in the fermenter.
- 
+
 
 - Optical Method
 
@@ -38,13 +38,13 @@ With it you can see such **parameters** as:
 
 ## Final decision:
 
-To measure the °Bx the refractive method was chosen. Total internal reflection is to be used to find the refractive index of a wine (which depends on brix since sugar is optically active). We are going to use optical prism with relatively high refractive index to make total internal reflection angle bigger.
+Refractive method of the °Bx measurement the  was chosen. With help of camera we are going to get data about total internal reflection angle which depends on refractive indexes of a wine (which depends on brix since sugar is optically active). To make the angle big enough to measure it, we will use prism made of optical glass with refractive angle ~1.52.
 
 
 
 ## Computations:
 
-To be done
+All computations related to light refraction provided in **calculation.py** file.
 
 
 
@@ -54,4 +54,4 @@ To be done
 - Optical prism 
 - LED
 - [Temperature sensor ](https://www.sparkfun.com/products/11050)([datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf))
-- [CO<sub>2</sub> sensor](https://www.youtube.com/watch?v=q86g1aop6a8) ([datasheet](https://www.youtube.com/watch?v=q86g1aop6a8))
+- [preassure sensor](https://www.mondaykids.com/monday-kids-3-3-45-5v-digital-barometric-pressure-sensor-module-liquid-water-level-controller-board-0-45-40kpa-for-arduino.html) 
