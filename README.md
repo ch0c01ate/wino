@@ -24,11 +24,11 @@ With our device, you can see such **parameters** as:
 
 - Density Method 
 
-  You can check [the Density measuring method by Cypress](https://github.com/ch0c01ate/wino/blob/master/presentations/Measuring Density.ppt) to discover more about it.
+  You can check [the Density measuring method by Cypress](https://github.com/ch0c01ate/wino/blob/master/presentations/Measuring%20Density.ppt) to discover more about it.
 
 - Optical Method
 
-  Check [Optical method](https://github.com/ch0c01ate/wino/blob/master/presentations/Optical Method.pptx) to discover how it works. This method was rejected because of the turbidity of the wine.
+  Check [Optical method](https://github.com/ch0c01ate/wino/blob/master/presentations/Optical%20Method.pptx) to discover how it works. This method was rejected because of the turbidity of the wine.
 
 ## Final decision:
 
