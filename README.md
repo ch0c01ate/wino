@@ -1,3 +1,7 @@
+# WINO
+Authors: [Hryts](https://github.com/Hryts), [ch0c01ate](https://github.com/ch0c01ate), [yankur](https://github.com/yankur)
+## Description:
+
 **Wino** project is a solution to problems which people usually come up with during the wine creation. It is device with embeded hardware called to provide an ability to observe and control fermentation process. 
 
 
@@ -13,7 +17,11 @@ With it you can see such **parameters** as:
 - Temperature (important factor on which yeasts ability to live depends)
 
 
-@@ -31,24 +27,24 @@ With our device you can see such **parameters** as:
+## What is done:
+- Many different approaches checked
+- Components found, filtered and ordered
+- Computations provided
+ 
 ## Previous decisions:
 
 - Density Method
@@ -43,7 +51,8 @@ To be done
 
 
 
-@@ -58,4 +54,4 @@ All computations related to light refraction provided in **calculation.py** file
+## Components:
+- [Camera](https://www.sparkfun.com/products/15430)  ([datasheet](https://cdn.sparkfun.com/assets/0/b/0/e/d/LI-IMX219-MIPI-FF-NANO_SPEC.pdf))
 - Optical prism 
 - LED
 - [Temperature sensor ](https://www.sparkfun.com/products/11050)([datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf))
