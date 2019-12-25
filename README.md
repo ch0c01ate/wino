@@ -20,6 +20,14 @@ With our device, you can see such **parameters** as:
 - Components found, filtered and ordered
 - Computations provided
 
+
+
+## TODO:
+
+- Construct and program the device
+
+
+
 ## Previous decisions:
 
 - Density Method 
