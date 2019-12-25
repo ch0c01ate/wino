@@ -26,7 +26,7 @@ With our device, you can see such **parameters** as:
 
   You can check [the Density measuring method by Cypress](https://github.com/ch0c01ate/wino/blob/master/presentations/Measuring%20Density.ppt) to discover more about it.
 
-- Optical Method
+- Optical Method (using light polarization)
 
   Check [Optical method](https://github.com/ch0c01ate/wino/blob/master/presentations/Optical%20Method.pptx) to discover how it works. This method was rejected because of the turbidity of the wine.
 
