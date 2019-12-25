@@ -40,7 +40,7 @@ With our device, you can see such **parameters** as:
 
 ## Final decision:
 
-Refractive method of the °Bx measurement the was chosen. With the help of camera, we are going to get data about total internal reflection angle, which depends on refractive indexes of wine (which depends on Brix since sugar is optically active). To make the angle big enough to measure it, we will use prism made of optical glass with a refractive angle ~1.52.
+Refractive method of the °Bx measurement the was chosen. With the help of camera, we are going to get data about total internal reflection angle, which depends on refractive indexes of wine (which, itself, depends on Brix since sugar is optically active). To make the angle big enough to measure it, we will use prism made of optical glass with a refractive angle ~1.52.
 
 ## Computations:
 
