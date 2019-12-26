@@ -131,4 +131,4 @@ if __name__ == "__main__":
         res_int1 = intersect(f_screen, falling_screen1)
         res_int2 = intersect(f_screen, falling_screen2)
 
-        print(res_int1, res_int2)
+        print(f'max difference: {res_int1[0] - res_int2[0]}m')
