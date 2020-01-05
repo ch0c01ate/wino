@@ -48,7 +48,7 @@ All computations related to light refraction provided in **calculation.py** file
 
 ## Components:
 
-- [Camera](https://www.sparkfun.com/products/15430) ([datasheet_1](https://cdn.sparkfun.com/assets/0/b/0/e/d/LI-IMX219-MIPI-FF-NANO_SPEC.pdf), [datasheet_2](https://pinoutguide.com/dev/Siemens/M55/))
+- [Camera](https://www.sparkfun.com/products/15430) ([datasheet for camera 1](https://cdn.sparkfun.com/assets/0/b/0/e/d/LI-IMX219-MIPI-FF-NANO_SPEC.pdf), [siemens phone pinout](https://pinoutguide.com/dev/Siemens/M55/))
 - Optical prism 
 - LED
 - [Temperature sensor ](https://www.sparkfun.com/products/11050)([datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf))
