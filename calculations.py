@@ -1,5 +1,6 @@
 import math
 
+
 def intersect(f1, f2):
     """
     Intersection of two linear functions
@@ -20,16 +21,16 @@ def intersect(f1, f2):
 
 if __name__ == "__main__":
     # initialize list of possible prism parameters values
-    a_sides_of_prism = [i / 100 for i in range(300, 600)]
+    a_sides_of_prism = [i / 100 for i in range(500, 900)]
 
     # minimum focal length of camera
-    l_focal = 30
+    l_focal = 23.5
 
     # refractive indexes initialization
     n_air = 1
-    n_optical_glass = 1.52
-    n_wine1 = 1.35407 # minimum n_wine for Brix = 14
-    n_wine2 = 1.38845 # maximum n_wine for Brix = 34
+    n_optical_glass = 1.44
+    n_wine1 = 1.33  # minimum n_wine for Brix = 14
+    n_wine2 = 1.42  # maximum n_wine for Brix = 34
 
     # maximum and minimum internal reflection angles respectively
     alpha_r1 = math.asin(n_wine1 / n_optical_glass)
@@ -39,6 +40,7 @@ if __name__ == "__main__":
     delta_k = .1
 
     for a_side_of_prism in a_sides_of_prism:
+        a_side_of_prism /= 10000
         print(f'a: {a_side_of_prism}\tb:{a_side_of_prism}')
 
         # angle of triangle in prism
@@ -55,7 +57,7 @@ if __name__ == "__main__":
         # function to represent ray1 going through prism from light source
         f_beta_r1 = (math.tan(math.pi / 2 + alpha_r1),
                      -l_r * math.tan(math.pi / 2 + alpha_r1))
-        # function to represent ray1 going through prism from light source
+        # function to represent ray2 going through prism from light source
         f_beta_r2 = (
             math.tan(math.pi / 2 + alpha_r2),
             (a_side_of_prism - delta_k) * math.tan(math.pi / 2 + alpha_r2))
@@ -106,7 +108,6 @@ if __name__ == "__main__":
         # coordinates of reflected rays and prism side intersections
         int_r1 = intersect(prism1, reflected_ray1)
         int_r2 = intersect(prism1, reflected_ray2)
-
 
         falling_ray1_beta = math.asin(math.sin(omega - alpha_r1) *
                                       n_optical_glass / n_wine1)
